@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4100b6c0-032b-4f0c-a1d6-9e0288acd098" name="ming" url="http://localhost">
+        <fileTransfer accessType="SFTP" host="203.253.146.131" port="32115" sshConfigId="13c99bd2-1e72-43c5-8e7b-c4c4c5f277e1" sshConfig="ming_c@203.253.146.131:32115 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
