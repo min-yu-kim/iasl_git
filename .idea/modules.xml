@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/UAM optimization.iml" filepath="$PROJECT_DIR$/.idea/UAM optimization.iml" />
-      <module fileurl="file://$USER_HOME$/iasl/.idea/iasl.iml" filepath="$USER_HOME$/iasl/.idea/iasl.iml" />
     </modules>
   </component>
 </project>

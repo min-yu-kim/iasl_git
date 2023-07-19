@@ -6,6 +6,5 @@
     </content>
     <orderEntry type="jdk" jdkName="pptk_env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="iasl" />
   </component>
 </module>
